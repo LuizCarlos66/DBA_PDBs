@@ -1,0 +1,8 @@
+/*
+Parametro de Sistema Operacional:
+ORACLE_PDB_SID
+*/
+
+/* Linux / Unix */
+export ORACLE_PDB_SID=<Nome do PDB>
+
